@@ -1,3 +1,11 @@
+
+![Screenshot 2024-11-11 064041](https://github.com/user-attachments/assets/3d1a7f40-487a-4409-a038-a0d40839f3d8)
+
+
+![Screenshot 2024-11-11 064048](https://github.com/user-attachments/assets/2df91ec1-b71b-4a3e-8a7a-83d378d5c452)
+
+a simple weather web app using react test
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
